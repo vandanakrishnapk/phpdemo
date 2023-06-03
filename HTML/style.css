@@ -1,0 +1,14 @@
+body 
+{
+   background-image: url("https://image.shutterstock.com/image-photo/beautiful-cosmos-flowers-blooming-garden-260nw-797194879.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+   background-size: cover;
+    font-size: large;
+
+}
+p 
+{
+    background-color:rgb(235, 77, 77);
+}
